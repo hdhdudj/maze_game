@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="one.c">
+    <ClCompile Include="maze_game.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
